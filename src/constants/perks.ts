@@ -5,32 +5,32 @@ import React from "react";
 export const PERKS = [
     {
         icon: ZapIcon,
-        title: "Fast and Efficient",
-        description: "Experience quick and seamless content creation with our optimized AI tools."
+        title: "Content and Social Media Management",
+        description: "Providing a full team of content writers, including a social media manager (Currently we are overbooked).",
     },
     {
         icon: ChartSplineIcon,
-        title: "Insightful Analytics",
-        description: "Gain valuable insights and analytics to enhance your social media strategy."
-    },
-    {
-        icon: LifeBuoyIcon,
-        title: "24/7 Support",
-        description: "Our team is available around the clock to assist with any issues or questions."
-    },
-    {
-        icon: PaletteIcon,
-        title: "Customizable Solutions",
-        description: "Tailor the tools and features to fit your unique social media needs."
+        title: "Token Launch Services",
+        description: "Offering exclusive services for launching memecoins, RWA, or other tokens. Also providing a team to handle every aspect of the token launch.",
     },
     {
         icon: ShieldCheckIcon,
-        title: "Secure and Reliable",
-        description: "Trust our platform to keep your data safe and ensure consistent performance."
+        title: "Exclusive Alpha Group",
+        description: "Providing access to an exclusive alpha group for privileged insights and early information (More details available upon private discussion).",
     },
     {
         icon: WaypointsIcon,
-        title: "Seamless Integration",
-        description: "Easily integrate with your existing social media platforms and tools."
+        title: "Deal Flow Exchange",
+        description: "Partner with a deal flow exchange platform to promote within their community. Offer exclusive entries for their members or co-host the giveaway.",
+    },
+    {
+        icon: LifeBuoyIcon,
+        title: "Technical Support",
+        description: "Collaboration with market makers, also working closely with technical experts for project development.",
+    },
+    {
+        icon: SparklesIcon,
+        title: "Big Collaborative Giveaway",
+        description: "Organizing a massive giveaway on our 100k+ Twitter and Telegram channels using Gleam, including a fun quiz to boost user interaction and engagement.",
     },
 ];

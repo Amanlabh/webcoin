@@ -1,5 +1,8 @@
+"use client";
+
 import { Background, Companies, Connect, Container, CTA, Features, Hero, Perks, Pricing, Reviews, Wrapper } from "@/components";
 import { Spotlight } from "@/components/ui/spotlight";
+import Extra from "@/components/marketing/extra"; // Correctly import Extra
 
 const HomePage = () => {
     return (
@@ -16,14 +19,15 @@ const HomePage = () => {
                     <Companies />
                 </Container>
                 <Connect />
-                <Features />
                 <Perks />
+                <Features />
                 <Pricing />
+                <Extra /> {/* Use the Extra component */}
                 <Reviews />
                 <CTA />
             </Wrapper>
         </Background>
-    )
+    );
 };
 
-export default HomePage
+export default HomePage;

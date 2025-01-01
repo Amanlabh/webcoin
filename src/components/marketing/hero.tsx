@@ -28,26 +28,32 @@ const Hero = () => {
                 </div>
             </Container>
             <BlurText
-                word={"Your ultimate social media\n marketing tool"}
+                word={"Grow Your Project with Webcoin Labs"}
                 className="text-3xl sm:text-5xl lg:text-6xl xl:text-7xl bg-gradient-to-br from-foreground to-foreground/60 bg-clip-text text-transparent py-2 md:py-0 lg:!leading-snug font-medium racking-[-0.0125em] mt-6 font-heading"
             />
             <Container delay={0.1}>
                 <p className="text-sm sm:text-base lg:text-lg mt-4 text-accent-foreground/60 max-w-2xl mx-auto">
-                    Elevate your social media presense with AI-powered content creation and scheduling. <span className="hidden sm:inline">Luro is the all-in-one solution for your social media marketing needs.</span>
+                A world-class community-backed capital investing in top blockchain projects of the future. <span className="hidden sm:inline">Webcoinlabs is the all-in-one solution for your crypto needs.</span>
                 </p>
             </Container>
             <Container delay={0.2}>
                 <div className="flex items-center justify-center md:gap-x-6 mt-8">
                     <Button asChild size="lg">
                         <Link href="/app">
-                            Start for free
+                            Start Today
                         </Link>
                     </Button>
                     <Button asChild size="lg" variant="outline" className="hidden md:flex">
-                        <Link href="#">
-                            How it works
+    <a href="/Users/aman/Developer/luro-ai/public/images/Webcoin-Pitchdeck.pdf" download>
+        Pitch Deck
+    </a>
+</Button>
+                    <Button asChild size="lg">
+                        <Link href="/app">
+                            KOL
                         </Link>
                     </Button>
+
                 </div>
             </Container>
             <Container delay={0.3}>
@@ -63,7 +69,14 @@ const Hero = () => {
                             className="rounded-lg lg:rounded-[20px]"
                         />
                     </div>
+                    
                 </div>
+                <br />   <br />   <br />
+                <Button asChild size="lg">
+                        <Link href="/app">
+                            Request a callback
+                        </Link>
+                    </Button>
             </Container>
         </div>
     )

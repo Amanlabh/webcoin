@@ -14,10 +14,10 @@ const Features = () => {
                 <div className="flex flex-col items-center text-center max-w-2xl mx-auto">
                     <SectionBadge title="Features" />
                     <h2 className="text-2xl md:text-4xl lg:text-5xl font-heading font-medium !leading-snug mt-6">
-                        Create content faster <br /> and smarter
+                    Advantages and Value Additions   for Projects
                     </h2>
                     <p className="text-base md:text-lg text-center text-accent-foreground/80 mt-6">
-                        Transform your social media strategy with Luro AI&apos;s cutting-edge features, designed to optimize your content creation and engagement like never before.
+                    Highlighting the strategic advantages, enhanced outcomes, and transformative value that projects bring to achieve organizational goals and drive innovation.
                     </p>
                 </div>
             </Container>
@@ -40,10 +40,12 @@ const Features = () => {
                                     </div>
                                     <div className="flex flex-col">
                                         <h4 className="text-xl font-heading font-medium heading ">
-                                            Get advanced analytics
+                                        FULL INCUBATION
                                         </h4>
                                         <p className="text-sm md:text-base mt-2 text-muted-foreground">
-                                            Track your performance with detailed analytics and optimize to get better results.
+                                        After a thorough research, If the project is suitable & favourable for investment then we Incubate the project which involves investment from our capital also making Connection with our partner VC, Not only this it involves making connection with
+
+
                                         </p>
                                     </div>
                                 </div>
@@ -60,10 +62,10 @@ const Features = () => {
                                     </div>
                                     <div className="flex flex-col mt-auto">
                                         <h4 className="text-xl font-heading font-medium heading">
-                                            Content ideation
+                                        KOLs Marketing
                                         </h4>
                                         <p className="text-sm md:text-base mt-2 text-muted-foreground">
-                                            Generate ideas for your content with our AI-powered tools to create engaging posts in seconds.
+                                        Over 1,500 KOLs worldwide including 200+ YouTubers and more than 100 Twitter influencers for reaching specific audiences through trusted voices.
                                         </p>
                                     </div>
                                 </div>
@@ -121,10 +123,13 @@ const Features = () => {
                                     </div>
                                     <div className="flex flex-col mt-auto">
                                         <h4 className="text-xl font-heading font-medium heading ">
-                                            Image generation with AI
+                                        ADVISORY SERVICE
+
                                         </h4>
                                         <p className="text-sm md:text-base mt-2 text-muted-foreground">
-                                            Create stunning images with AI-powered tools in seconds.
+                                        It includes making connections with several Tier 1 launchpad, Tier 1 CEX If it GameFi Projects then we help in making Partnership with other GameFied project, Making connection with several Gaming Guild & Esports platform
+
+
                                         </p>
                                     </div>
                                 </div>
